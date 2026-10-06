@@ -224,14 +224,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 5. Open a Pull Request
 
 
-
-## 👤 Author
-
-**Suyash Koirala**
-- GitHub: [@sk-koirala](https://github.com/sk-koirala)
-
-## 🙏 Acknowledgments
-
 - Dataset inspiration from emotion classification research
 - Scikit-learn documentation and community
 - NLTK for natural language processing tools
